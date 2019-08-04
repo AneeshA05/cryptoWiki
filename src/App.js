@@ -8,8 +8,6 @@ const App = ()=>{
     
     return(
         <div >
-            
-            {/* <LoadDiv/> */}
             <SearchBar/>
             <HeaderInfo/>
             <DivisionInfo/>

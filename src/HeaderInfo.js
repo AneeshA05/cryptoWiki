@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import DivisionInfo from './DivisionInfo';
+
 import $ from "jquery";
 
 class HeaderInfo extends Component{
