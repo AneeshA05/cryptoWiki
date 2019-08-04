@@ -14,6 +14,8 @@ class HeaderInfo extends Component{
     }
 
     func1=()=>{
+       
+    
         var x = document.getElementById("myHide");
             if (x.style.display === "none") {
                 x.style.display = "block";
